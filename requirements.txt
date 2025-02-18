@@ -1,2 +1,15 @@
-pyrogram
-sqlite3
+pyrogram==2.0.35
+tgcrypto==1.2.3
+pillow==8.3.2  # Para el manejo de imágenes
+requests==2.26.0  # Para realizar solicitudes HTTP
+beautifulsoup4==4.10.0  # Para el scraping web si es necesario
+lxml==4.6.3  # Analizador XML para BeautifulSoup
+py-notifier==0.3.2  # Para manejar notificaciones del sistema
+pyobjc-framework-Quartz==7.3  # Para manejar notificaciones en MacOS
+pyobjc-framework-NotificationCenter==7.3  # Para manejar notificaciones en MacOS
+android-auto-start==0.1.2  # Para asegurar el inicio automático en dispositivos Android
+python-android==0.1.0  # Para varias funcionalidades de control de dispositivo en Android
+pyttsx3==2.90  # Para convertir texto a voz
+pydub==0.25.1  # Para manejar archivos de audio
+geopy==2.2.0  # Para obtener información geográfica
+pyclip==0.6.0  # Para acceder al portapapeles
