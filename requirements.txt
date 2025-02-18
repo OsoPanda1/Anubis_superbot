@@ -3,7 +3,7 @@ tgcrypto==1.2.3
 pillow==8.3.2  # Para el manejo de imágenes
 requests==2.26.0  # Para realizar solicitudes HTTP
 beautifulsoup4==4.10.0  # Para el scraping web si es necesario
-lxml==4.6.3  # Analizador XML para BeautifulSoup
+lxml==4.9.1  # Analizador XML para BeautifulSoup
 py-notifier==0.3.2  # Para manejar notificaciones del sistema
 pyobjc-framework-Quartz==7.3  # Para manejar notificaciones en MacOS
 pyobjc-framework-NotificationCenter==7.3  # Para manejar notificaciones en MacOS
